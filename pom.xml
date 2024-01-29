@@ -50,9 +50,6 @@
 					<includes>
 						<include>iu.edu.lukemeng.c322spring2024homework2.C322Spring2024Homework2ApplicationTests</include>
 					</includes>
-					<excludes>
-						<exclude></exclude>
-					</excludes>
 				</configuration>
 			</plugin>
 		</plugins>
