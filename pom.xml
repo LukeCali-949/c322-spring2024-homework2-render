@@ -48,7 +48,7 @@
 				</dependencies>
 				<configuration>
 					<includes>
-						<include>iu.edu.lukemeng.c322spring2024homework2.C322Spring2024Homework2ApplicationTests</include>
+						<include>iu.edu.lukemeng.c322spring2024homework2.repository.InventoryRepositoryTest</include>
 					</includes>
 				</configuration>
 			</plugin>
