@@ -1,5 +1,6 @@
 package iu.edu.lukemeng.c322spring2024homework2.model;
 
+//Guitar Class
 public class Guitar {
 
     String serialNumber;
